@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\pablo\OneDrive\Escritorio\9K\Servicios Web\Practicas\Practica5_A170104\Peliculas.xsl"?>
+<peliculas>
+<pelicula>
+  <nombre>Flipped</nombre>
+  <autor>Wendelin Van Draanen</autor>
+  <año>2010</año>
+</pelicula>
+<pelicula>
+  <nombre>Lobo de Wall Street</nombre>
+  <autor>Jordan Belfort</autor>
+  <año>2013</año>
+</pelicula>
+<pelicula>
+  <nombre>Mente indomable</nombre>
+  <autor>Gus Van Sant</autor>
+  <año>1997</año>
+</pelicula>
+</peliculas>
